@@ -2,30 +2,8 @@
 
 Computational design and evidence audit of candidate TfR1 binders.
 
-[中文说明](#中文说明)
-
-## Scope and evidence
-
-Preserves design rounds, controls, candidate structures, and subsequent report corrections. Candidates are computational hypotheses; prediction metrics do not establish affinity.
-
-## Provenance and status
-
-This repository is being prepared from existing local work. File-level provenance, source hashes, release manifests, and restoration checks will accompany the archived materials. The current README does not claim that the full archive has already been published or verified.
-
-## Projects
-
-- Project overview and source manifest are being prepared.
-
-## Licenses
-
-Original code: MIT, where rights are established. Original documentation and data: CC BY 4.0, where rights are established. Third-party software, model weights, papers, and datasets retain their original licenses; see the item-level provenance records.
+The five third-round candidates are computational candidates, not experimentally validated binders. A later review found that the former report overstated pose recovery and used inconsistent gates. The corrected review and source metrics are preserved in `final_round3/review_20261029.md`; read it with the original report. Model confidence does not establish affinity.
 
 ## 中文说明
 
-TfR1 结合剂候选的计算设计与证据审计。
-
-保留各轮设计、对照、候选结构及后续报告更正。候选属于计算假设，预测指标不能证明亲和力。
-
-当前正在从本地项目整理本仓库。文件来源、哈希、Release 清单和恢复校验将随归档资料提供；本 README 不表示完整归档已发布或验证。
-
-原创代码在权利明确时采用 MIT 许可；原创文档和数据在权利明确时采用 CC BY 4.0。第三方软件、权重、论文和数据沿用原许可，详见逐项来源记录。
+本项目保留 TfR1 候选设计、脚本、候选结构、进度和结论更正。第三轮报告中的五条序列是计算候选，未获实验验证。后续复核发现旧报告对姿势复现的表述过强，且筛选门槛前后不一致。请将更正记录与原始报告和指标共同阅读；模型置信度不等于亲和力。

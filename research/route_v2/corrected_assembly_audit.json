@@ -1,0 +1,836 @@
+{
+  "assembly": "3S9L biological assembly 1, chains A,C plus BIOMT operator 2",
+  "reference_alignment_rmsd_A": 0.6897505124154543,
+  "Y211_transferrin_distances_A": [
+    54.5029804209296,
+    54.284633782542265
+  ],
+  "3DS18_transferrin_overlay": [
+    {
+      "copy": 0,
+      "min_distance_A": 52.315025143262844,
+      "atom_pairs_lt2A": 0
+    },
+    {
+      "copy": 1,
+      "min_distance_A": 33.953259549194385,
+      "atom_pairs_lt2A": 0
+    }
+  ],
+  "recommended_CA_distances": [
+    {
+      "residue": 204,
+      "to_Y211_A": 9.496789932250977
+    },
+    {
+      "residue": 209,
+      "to_Y211_A": 5.66259241104126
+    },
+    {
+      "residue": 210,
+      "to_Y211_A": 3.8027122020721436
+    },
+    {
+      "residue": 211,
+      "to_Y211_A": 0.0
+    },
+    {
+      "residue": 212,
+      "to_Y211_A": 3.795515298843384
+    },
+    {
+      "residue": 215,
+      "to_Y211_A": 11.808272361755371
+    },
+    {
+      "residue": 348,
+      "to_Y211_A": 11.471624374389648
+    },
+    {
+      "residue": 371,
+      "to_Y211_A": 11.242348670959473
+    }
+  ],
+  "corrected_transferrin_residue_distances": [
+    {
+      "residue": 189,
+      "min_distance_A": 21.337877812862285
+    },
+    {
+      "residue": 190,
+      "min_distance_A": 23.93822610557566
+    },
+    {
+      "residue": 191,
+      "min_distance_A": 29.362187044290668
+    },
+    {
+      "residue": 192,
+      "min_distance_A": 27.854565219723273
+    },
+    {
+      "residue": 193,
+      "min_distance_A": 34.30132090172944
+    },
+    {
+      "residue": 194,
+      "min_distance_A": 33.83351003709311
+    },
+    {
+      "residue": 195,
+      "min_distance_A": 35.270811449300716
+    },
+    {
+      "residue": 196,
+      "min_distance_A": 39.21741557170907
+    },
+    {
+      "residue": 197,
+      "min_distance_A": 41.75227859183509
+    },
+    {
+      "residue": 198,
+      "min_distance_A": 38.57356889568286
+    },
+    {
+      "residue": 199,
+      "min_distance_A": 45.788439727579494
+    },
+    {
+      "residue": 200,
+      "min_distance_A": 46.54621329055068
+    },
+    {
+      "residue": 201,
+      "min_distance_A": 49.50605461662695
+    },
+    {
+      "residue": 202,
+      "min_distance_A": 52.55673140515916
+    },
+    {
+      "residue": 203,
+      "min_distance_A": 53.44601864921347
+    },
+    {
+      "residue": 204,
+      "min_distance_A": 59.978253906619194
+    },
+    {
+      "residue": 205,
+      "min_distance_A": 54.1868588053983
+    },
+    {
+      "residue": 206,
+      "min_distance_A": 59.4341619489762
+    },
+    {
+      "residue": 207,
+      "min_distance_A": 54.76984767978619
+    },
+    {
+      "residue": 208,
+      "min_distance_A": 58.499048032586344
+    },
+    {
+      "residue": 209,
+      "min_distance_A": 53.27197044177534
+    },
+    {
+      "residue": 210,
+      "min_distance_A": 58.70923358993921
+    },
+    {
+      "residue": 211,
+      "min_distance_A": 54.5029804209296
+    },
+    {
+      "residue": 212,
+      "min_distance_A": 49.43541642614334
+    },
+    {
+      "residue": 213,
+      "min_distance_A": 51.34367781413558
+    },
+    {
+      "residue": 214,
+      "min_distance_A": 48.01363236000725
+    },
+    {
+      "residue": 215,
+      "min_distance_A": 44.97533591425745
+    },
+    {
+      "residue": 216,
+      "min_distance_A": 42.90619071093328
+    },
+    {
+      "residue": 217,
+      "min_distance_A": 38.33624224943896
+    },
+    {
+      "residue": 218,
+      "min_distance_A": 38.240794978140514
+    },
+    {
+      "residue": 219,
+      "min_distance_A": 30.601484136821608
+    },
+    {
+      "residue": 220,
+      "min_distance_A": 36.2942293942261
+    },
+    {
+      "residue": 221,
+      "min_distance_A": 30.965516849002295
+    },
+    {
+      "residue": 222,
+      "min_distance_A": 26.089985700271452
+    },
+    {
+      "residue": 223,
+      "min_distance_A": 36.20877931363357
+    },
+    {
+      "residue": 224,
+      "min_distance_A": 36.59508524665915
+    },
+    {
+      "residue": 225,
+      "min_distance_A": 35.94772453283776
+    },
+    {
+      "residue": 226,
+      "min_distance_A": 40.89409836961171
+    },
+    {
+      "residue": 227,
+      "min_distance_A": 43.972711527607515
+    },
+    {
+      "residue": 228,
+      "min_distance_A": 44.93403763411012
+    },
+    {
+      "residue": 229,
+      "min_distance_A": 51.017548362869086
+    },
+    {
+      "residue": 230,
+      "min_distance_A": 49.49491765977659
+    },
+    {
+      "residue": 231,
+      "min_distance_A": 45.91462610853583
+    },
+    {
+      "residue": 232,
+      "min_distance_A": 45.191422302399516
+    },
+    {
+      "residue": 233,
+      "min_distance_A": 40.7847352781216
+    },
+    {
+      "residue": 234,
+      "min_distance_A": 38.11882647278574
+    },
+    {
+      "residue": 235,
+      "min_distance_A": 36.29365150978762
+    },
+    {
+      "residue": 236,
+      "min_distance_A": 31.533633362732864
+    },
+    {
+      "residue": 237,
+      "min_distance_A": 30.853652305728883
+    },
+    {
+      "residue": 238,
+      "min_distance_A": 31.691315602187313
+    },
+    {
+      "residue": 239,
+      "min_distance_A": 28.111558215956574
+    },
+    {
+      "residue": 240,
+      "min_distance_A": 26.06817836801599
+    },
+    {
+      "residue": 241,
+      "min_distance_A": 21.974764532862366
+    },
+    {
+      "residue": 242,
+      "min_distance_A": 30.10886339664233
+    },
+    {
+      "residue": 243,
+      "min_distance_A": 32.65071126021024
+    },
+    {
+      "residue": 244,
+      "min_distance_A": 26.09216420265994
+    },
+    {
+      "residue": 245,
+      "min_distance_A": 28.467109288231857
+    },
+    {
+      "residue": 246,
+      "min_distance_A": 35.611151928056444
+    },
+    {
+      "residue": 247,
+      "min_distance_A": 36.656612548679504
+    },
+    {
+      "residue": 248,
+      "min_distance_A": 40.685503660899684
+    },
+    {
+      "residue": 249,
+      "min_distance_A": 40.12785490200585
+    },
+    {
+      "residue": 250,
+      "min_distance_A": 38.33223075428836
+    },
+    {
+      "residue": 251,
+      "min_distance_A": 40.42659238887825
+    },
+    {
+      "residue": 252,
+      "min_distance_A": 43.097909077009334
+    },
+    {
+      "residue": 253,
+      "min_distance_A": 44.060393031725845
+    },
+    {
+      "residue": 254,
+      "min_distance_A": 45.32518219349989
+    },
+    {
+      "residue": 255,
+      "min_distance_A": 39.600786110708945
+    },
+    {
+      "residue": 256,
+      "min_distance_A": 41.99724565801332
+    },
+    {
+      "residue": 257,
+      "min_distance_A": 36.685835785189305
+    },
+    {
+      "residue": 258,
+      "min_distance_A": 33.8267923095036
+    },
+    {
+      "residue": 259,
+      "min_distance_A": 36.5436199390404
+    },
+    {
+      "residue": 260,
+      "min_distance_A": 30.554053982827046
+    },
+    {
+      "residue": 261,
+      "min_distance_A": 27.081565165963713
+    },
+    {
+      "residue": 262,
+      "min_distance_A": 27.560707556970375
+    },
+    {
+      "residue": 263,
+      "min_distance_A": 30.87292954696417
+    },
+    {
+      "residue": 264,
+      "min_distance_A": 36.24554110482721
+    },
+    {
+      "residue": 265,
+      "min_distance_A": 34.21292039863393
+    },
+    {
+      "residue": 266,
+      "min_distance_A": 27.340687061005678
+    },
+    {
+      "residue": 267,
+      "min_distance_A": 33.18033199928183
+    },
+    {
+      "residue": 268,
+      "min_distance_A": 37.24644789671472
+    },
+    {
+      "residue": 269,
+      "min_distance_A": 32.65142649446588
+    },
+    {
+      "residue": 270,
+      "min_distance_A": 29.75703108237166
+    },
+    {
+      "residue": 271,
+      "min_distance_A": 37.05993902241766
+    },
+    {
+      "residue": 272,
+      "min_distance_A": 37.04102724611792
+    },
+    {
+      "residue": 273,
+      "min_distance_A": 32.255288418963055
+    },
+    {
+      "residue": 274,
+      "min_distance_A": 33.50993401404595
+    },
+    {
+      "residue": 275,
+      "min_distance_A": 38.36212063901408
+    },
+    {
+      "residue": 276,
+      "min_distance_A": 39.866804680810674
+    },
+    {
+      "residue": 277,
+      "min_distance_A": 45.07252811505362
+    },
+    {
+      "residue": 278,
+      "min_distance_A": 42.428296175555204
+    },
+    {
+      "residue": 279,
+      "min_distance_A": 39.72780922188628
+    },
+    {
+      "residue": 280,
+      "min_distance_A": 44.00545653907718
+    },
+    {
+      "residue": 281,
+      "min_distance_A": 38.775343051155765
+    },
+    {
+      "residue": 282,
+      "min_distance_A": 39.91773759922301
+    },
+    {
+      "residue": 283,
+      "min_distance_A": 39.79500333373509
+    },
+    {
+      "residue": 284,
+      "min_distance_A": 36.701127092144255
+    },
+    {
+      "residue": 285,
+      "min_distance_A": 41.99349040592803
+    },
+    {
+      "residue": 286,
+      "min_distance_A": 35.61639007648374
+    },
+    {
+      "residue": 287,
+      "min_distance_A": 31.47772054243532
+    },
+    {
+      "residue": 288,
+      "min_distance_A": 35.80339532784731
+    },
+    {
+      "residue": 289,
+      "min_distance_A": 37.87518757519904
+    },
+    {
+      "residue": 290,
+      "min_distance_A": 41.90803126088745
+    },
+    {
+      "residue": 291,
+      "min_distance_A": 45.58844994411373
+    },
+    {
+      "residue": 292,
+      "min_distance_A": 47.49395222560676
+    },
+    {
+      "residue": 293,
+      "min_distance_A": 48.90105102583043
+    },
+    {
+      "residue": 294,
+      "min_distance_A": 48.92956778570653
+    },
+    {
+      "residue": 295,
+      "min_distance_A": 43.845235732975475
+    },
+    {
+      "residue": 296,
+      "min_distance_A": 41.594507064451946
+    },
+    {
+      "residue": 297,
+      "min_distance_A": 40.50870636783009
+    },
+    {
+      "residue": 298,
+      "min_distance_A": 31.711396051907208
+    },
+    {
+      "residue": 299,
+      "min_distance_A": 34.093032709359846
+    },
+    {
+      "residue": 300,
+      "min_distance_A": 31.586971466470597
+    },
+    {
+      "residue": 301,
+      "min_distance_A": 35.83269150034278
+    },
+    {
+      "residue": 302,
+      "min_distance_A": 28.482590862852376
+    },
+    {
+      "residue": 303,
+      "min_distance_A": 30.931420289002865
+    },
+    {
+      "residue": 304,
+      "min_distance_A": 29.816755493466214
+    },
+    {
+      "residue": 305,
+      "min_distance_A": 27.049660013996874
+    },
+    {
+      "residue": 306,
+      "min_distance_A": 23.99510092634249
+    },
+    {
+      "residue": 307,
+      "min_distance_A": 20.595972684024645
+    },
+    {
+      "residue": 308,
+      "min_distance_A": 25.60693842751574
+    },
+    {
+      "residue": 309,
+      "min_distance_A": 23.4031551141888
+    },
+    {
+      "residue": 310,
+      "min_distance_A": 18.966174712775448
+    },
+    {
+      "residue": 311,
+      "min_distance_A": 24.202101632248997
+    },
+    {
+      "residue": 312,
+      "min_distance_A": 21.349051011712618
+    },
+    {
+      "residue": 313,
+      "min_distance_A": 18.29614698660632
+    },
+    {
+      "residue": 314,
+      "min_distance_A": 15.2037079234069
+    },
+    {
+      "residue": 315,
+      "min_distance_A": 16.712414731186136
+    },
+    {
+      "residue": 316,
+      "min_distance_A": 11.195768127567328
+    },
+    {
+      "residue": 317,
+      "min_distance_A": 9.005169111087103
+    },
+    {
+      "residue": 318,
+      "min_distance_A": 6.8081086354314255
+    },
+    {
+      "residue": 319,
+      "min_distance_A": 14.688061543596474
+    },
+    {
+      "residue": 320,
+      "min_distance_A": 12.08216709070019
+    },
+    {
+      "residue": 321,
+      "min_distance_A": 13.805518538047657
+    },
+    {
+      "residue": 322,
+      "min_distance_A": 17.700924298170985
+    },
+    {
+      "residue": 323,
+      "min_distance_A": 21.55448291438244
+    },
+    {
+      "residue": 324,
+      "min_distance_A": 24.01220294239217
+    },
+    {
+      "residue": 325,
+      "min_distance_A": 28.428490543932863
+    },
+    {
+      "residue": 326,
+      "min_distance_A": 28.713100626579628
+    },
+    {
+      "residue": 327,
+      "min_distance_A": 33.06746883740128
+    },
+    {
+      "residue": 328,
+      "min_distance_A": 32.64982084444474
+    },
+    {
+      "residue": 329,
+      "min_distance_A": 29.55436787367209
+    },
+    {
+      "residue": 330,
+      "min_distance_A": 34.50255732917224
+    },
+    {
+      "residue": 331,
+      "min_distance_A": 36.73453878395907
+    },
+    {
+      "residue": 332,
+      "min_distance_A": 40.46531003574313
+    },
+    {
+      "residue": 333,
+      "min_distance_A": 40.88853805788979
+    },
+    {
+      "residue": 334,
+      "min_distance_A": 39.26015277786089
+    },
+    {
+      "residue": 335,
+      "min_distance_A": 39.67646282295751
+    },
+    {
+      "residue": 336,
+      "min_distance_A": 40.33632470231843
+    },
+    {
+      "residue": 337,
+      "min_distance_A": 45.39771177397157
+    },
+    {
+      "residue": 338,
+      "min_distance_A": 47.59964402116033
+    },
+    {
+      "residue": 339,
+      "min_distance_A": 43.93248090356175
+    },
+    {
+      "residue": 340,
+      "min_distance_A": 50.51105775173386
+    },
+    {
+      "residue": 341,
+      "min_distance_A": 49.343563543048425
+    },
+    {
+      "residue": 342,
+      "min_distance_A": 45.065234053367604
+    },
+    {
+      "residue": 343,
+      "min_distance_A": 46.82049626459347
+    },
+    {
+      "residue": 344,
+      "min_distance_A": 52.150151229291744
+    },
+    {
+      "residue": 345,
+      "min_distance_A": 47.53150463892759
+    },
+    {
+      "residue": 346,
+      "min_distance_A": 43.038533341886755
+    },
+    {
+      "residue": 347,
+      "min_distance_A": 49.87846944374288
+    },
+    {
+      "residue": 348,
+      "min_distance_A": 52.32644641040485
+    },
+    {
+      "residue": 349,
+      "min_distance_A": 44.65970116796534
+    },
+    {
+      "residue": 350,
+      "min_distance_A": 48.185785710146476
+    },
+    {
+      "residue": 351,
+      "min_distance_A": 43.481103483865965
+    },
+    {
+      "residue": 352,
+      "min_distance_A": 42.41520824688719
+    },
+    {
+      "residue": 353,
+      "min_distance_A": 38.49973195901813
+    },
+    {
+      "residue": 354,
+      "min_distance_A": 34.68738388632825
+    },
+    {
+      "residue": 355,
+      "min_distance_A": 34.69325818477377
+    },
+    {
+      "residue": 356,
+      "min_distance_A": 28.185169647478723
+    },
+    {
+      "residue": 357,
+      "min_distance_A": 32.62534511070958
+    },
+    {
+      "residue": 358,
+      "min_distance_A": 28.415314470258092
+    },
+    {
+      "residue": 359,
+      "min_distance_A": 36.64452852313754
+    },
+    {
+      "residue": 360,
+      "min_distance_A": 40.64588262338803
+    },
+    {
+      "residue": 361,
+      "min_distance_A": 44.107593274605605
+    },
+    {
+      "residue": 362,
+      "min_distance_A": 45.58435076069176
+    },
+    {
+      "residue": 363,
+      "min_distance_A": 40.41972688666145
+    },
+    {
+      "residue": 364,
+      "min_distance_A": 45.1164870884922
+    },
+    {
+      "residue": 365,
+      "min_distance_A": 38.55158648428181
+    },
+    {
+      "residue": 366,
+      "min_distance_A": 44.78374725303202
+    },
+    {
+      "residue": 367,
+      "min_distance_A": 48.99597123140168
+    },
+    {
+      "residue": 368,
+      "min_distance_A": 52.36668219825384
+    },
+    {
+      "residue": 369,
+      "min_distance_A": 49.88614798619048
+    },
+    {
+      "residue": 370,
+      "min_distance_A": 56.510298265419785
+    },
+    {
+      "residue": 371,
+      "min_distance_A": 54.139911586605045
+    },
+    {
+      "residue": 372,
+      "min_distance_A": 52.455777758081396
+    },
+    {
+      "residue": 373,
+      "min_distance_A": 49.27216372050616
+    },
+    {
+      "residue": 374,
+      "min_distance_A": 48.84398766792777
+    },
+    {
+      "residue": 375,
+      "min_distance_A": 43.82904989294241
+    },
+    {
+      "residue": 376,
+      "min_distance_A": 42.50573994316304
+    },
+    {
+      "residue": 377,
+      "min_distance_A": 37.67203148090386
+    },
+    {
+      "residue": 378,
+      "min_distance_A": 37.56589769469841
+    },
+    {
+      "residue": 379,
+      "min_distance_A": 33.65805424735721
+    },
+    {
+      "residue": 380,
+      "min_distance_A": 30.32619175393468
+    },
+    {
+      "residue": 381,
+      "min_distance_A": 26.535823265649558
+    },
+    {
+      "residue": 382,
+      "min_distance_A": 23.64608641338291
+    },
+    {
+      "residue": 383,
+      "min_distance_A": 16.933417163494926
+    }
+  ]
+}

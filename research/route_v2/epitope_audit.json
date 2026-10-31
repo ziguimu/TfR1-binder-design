@@ -1,0 +1,180 @@
+{
+  "structure": "6WRV",
+  "pair_candidates": [
+    {
+      "receptor": "A",
+      "binder": "D",
+      "heavy_pairs_lt4p5": 237
+    },
+    {
+      "receptor": "A",
+      "binder": "C",
+      "heavy_pairs_lt4p5": 0
+    },
+    {
+      "receptor": "A",
+      "binder": "F",
+      "heavy_pairs_lt4p5": 172
+    },
+    {
+      "receptor": "B",
+      "binder": "D",
+      "heavy_pairs_lt4p5": 0
+    },
+    {
+      "receptor": "B",
+      "binder": "C",
+      "heavy_pairs_lt4p5": 243
+    },
+    {
+      "receptor": "B",
+      "binder": "F",
+      "heavy_pairs_lt4p5": 0
+    },
+    {
+      "receptor": "E",
+      "binder": "D",
+      "heavy_pairs_lt4p5": 0
+    },
+    {
+      "receptor": "E",
+      "binder": "C",
+      "heavy_pairs_lt4p5": 0
+    },
+    {
+      "receptor": "E",
+      "binder": "F",
+      "heavy_pairs_lt4p5": 244
+    }
+  ],
+  "selected_pair": {
+    "receptor": "A",
+    "binder": "D",
+    "heavy_pairs_lt4p5": 237
+  },
+  "apical_alignment_rmsd_A": 0.844879460503039,
+  "contact_residues_4p5A": [
+    [
+      199,
+      "S"
+    ],
+    [
+      201,
+      "I"
+    ],
+    [
+      202,
+      "I"
+    ],
+    [
+      203,
+      "V"
+    ],
+    [
+      204,
+      "D"
+    ],
+    [
+      207,
+      "G"
+    ],
+    [
+      208,
+      "R"
+    ],
+    [
+      209,
+      "L"
+    ],
+    [
+      210,
+      "V"
+    ],
+    [
+      211,
+      "Y"
+    ],
+    [
+      212,
+      "L"
+    ],
+    [
+      215,
+      "N"
+    ],
+    [
+      340,
+      "A"
+    ],
+    [
+      343,
+      "E"
+    ],
+    [
+      344,
+      "K"
+    ],
+    [
+      348,
+      "N"
+    ],
+    [
+      371,
+      "K"
+    ],
+    [
+      374,
+      "K"
+    ],
+    [
+      376,
+      "T"
+    ]
+  ],
+  "old_hotspots": [
+    {
+      "residue": 244,
+      "aa": "E",
+      "min_distance_to_3DS18_A": 28.124473571777344,
+      "CA_distance_to_Y211_A": 32.29070281982422
+    },
+    {
+      "residue": 247,
+      "aa": "Y",
+      "min_distance_to_3DS18_A": 22.373056411743164,
+      "CA_distance_to_Y211_A": 28.197412490844727
+    },
+    {
+      "residue": 303,
+      "aa": "L",
+      "min_distance_to_3DS18_A": 26.573789596557617,
+      "CA_distance_to_Y211_A": 33.624332427978516
+    },
+    {
+      "residue": 327,
+      "aa": "S",
+      "min_distance_to_3DS18_A": 27.3425235748291,
+      "CA_distance_to_Y211_A": 36.543067932128906
+    },
+    {
+      "residue": 211,
+      "aa": "Y",
+      "min_distance_to_3DS18_A": 1.969992756843567,
+      "CA_distance_to_Y211_A": 0.0
+    }
+  ],
+  "rigid_overlay_transferrin": [
+    {
+      "chain": "C",
+      "min_distance_A": 52.31505584716797,
+      "atom_pairs_lt2A": 0,
+      "atom_pairs_lt4A": 0
+    },
+    {
+      "chain": "D",
+      "min_distance_A": 0.42457810044288635,
+      "atom_pairs_lt2A": 322,
+      "atom_pairs_lt4A": 2547
+    }
+  ]
+}

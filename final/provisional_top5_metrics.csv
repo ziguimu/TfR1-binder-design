@@ -1,0 +1,6 @@
+candidate_id,backbone,iptm,interface_pae_8A_median,binder_plddt,interface_ca_pairs_lt10A,bsa_half_A2,binder_pose_rmsd_A,pass_core,hydrophobic_fraction,alanine_fraction,his_count
+TFR1_041,patch1_60_80_2,0.8132,2.89,86.03,125,624.0,49.95,False,0.3443,0.2295,0
+TFR1_015,patch2_80_100_10,0.7927,4.09,92.98,211,994.0,29.71,False,0.6020,0.3776,0
+TFR1_088,patch2_60_80_7,0.7538,3.53,88.00,94,595.0,50.34,False,0.4286,0.3000,0
+TFR1_073,patch2_80_100_5,0.7499,5.68,85.65,212,1196.4,40.72,False,0.6061,0.4141,0
+TFR1_066,patch1_80_100_14,0.7371,3.56,89.27,114,622.0,41.68,False,0.2530,0.0964,0
